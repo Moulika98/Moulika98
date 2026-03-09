@@ -1,16 +1,38 @@
-## Hi there 👋
 
-<!--
-**Moulika98/Moulika98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there👋 I'm Sai Moulika
 
-Here are some ideas to get you started:
+💻 Software Developer  
+🚀 Passionate about building data-driven applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills
+
+Python  
+SQL  
+JavaScript  
+Flutter  
+React  
+
+---
+
+## 📚 Currently Learning
+
+FastAPI  
+Full Stack Development  
+Data Analytics
+
+---
+
+## 📂 Projects
+
+• AI Resume Analyzer (coming soon)  
+• Task Manager Web App (coming soon)  
+• Data Analytics Dashboard (coming soon)
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/sai-moulika-muthareddy/ 
+GitHub: https://github.com/Moulika98
