@@ -70,6 +70,6 @@ https://github.com/Moulika98
 
 ## 📊 GitHub Stats
 
-![Moulika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moulika98&show_icons=true&theme=tokyonight)
+![Moulika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moulika98&show_icons=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Moulika98&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Moulika98&layout=compact)
