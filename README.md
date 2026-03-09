@@ -67,6 +67,9 @@ https://www.linkedin.com/in/sai-moulika-muthareddy/
 **GitHub**
 https://github.com/Moulika98
 
+
 ## 📊 GitHub Stats
 
-![Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moulika98&show_icons=true&theme=tokyonight)
+![Moulika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moulika98&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Moulika98&layout=compact&theme=tokyonight)
