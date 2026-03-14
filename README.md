@@ -1,7 +1,6 @@
 # Hi there 👋 I'm Sai Moulika
 
 💻 **Software Developer**
-📊 **Data Analyst**
 🚀 Passionate about building data-driven applications and scalable solutions.
 💡 Turning data into insights and ideas into software.
 
